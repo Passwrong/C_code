@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\Study\\\u4E09\u5B50\u68CB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6065AE13-22D4-439C-BDA3-A3660DEB0D3B}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|E:\\Visual Studio\\Study\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6065AE13-22D4-439C-BDA3-A3660DEB0D3B}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6065AE13-22D4-439C-BDA3-A3660DEB0D3B}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|E:\\Visual Studio\\Study\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6065AE13-22D4-439C-BDA3-A3660DEB0D3B}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6065AE13-22D4-439C-BDA3-A3660DEB0D3B}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|E:\\Visual Studio\\Study\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6065AE13-22D4-439C-BDA3-A3660DEB0D3B}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.c",
+              "DocumentMoniker": "E:\\Visual Studio\\Study\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.c",
+              "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\game.c",
+              "ToolTip": "E:\\Visual Studio\\Study\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.c",
+              "RelativeToolTip": "\u4E09\u5B50\u68CB\\game.c",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-20T14:38:44.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\Visual Studio\\Study\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\test.c",
+              "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\test.c",
+              "ToolTip": "E:\\Visual Studio\\Study\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\test.c",
+              "RelativeToolTip": "\u4E09\u5B50\u68CB\\test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-20T14:38:01.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "E:\\Visual Studio\\Study\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.h",
+              "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\game.h",
+              "ToolTip": "E:\\Visual Studio\\Study\\\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB\\game.h",
+              "RelativeToolTip": "\u4E09\u5B50\u68CB\\game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-20T14:37:36.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
